@@ -1,0 +1,24 @@
+{
+  "payload": {
+    "format": 1,
+    "serial": 1,
+    "issuedAt": 1793305565868,
+    "maintenance": {
+      "enabled": false,
+      "message": ""
+    },
+    "announcements": [],
+    "features": {
+      "play": true,
+      "modInstalls": true,
+      "imports": true,
+      "capeSharing": true,
+      "discordRpc": true
+    },
+    "disabledModules": [],
+    "bans": [],
+    "roles": []
+  },
+  "signature": "9Q5Holou1e7VfU19uaZu39HZIQ9ya9czBPOaICKCXeHt3ITvzdsaOEZs5P6lQc2N2gaYJEqDAezP0hB33MbBBQ==",
+  "keyId": "b1b8092a4983314a"
+}
