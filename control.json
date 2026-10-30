@@ -1,8 +1,8 @@
 {
   "payload": {
     "format": 1,
-    "serial": 4,
-    "issuedAt": 1793387224015,
+    "serial": 5,
+    "issuedAt": 1793387240976,
     "maintenance": {
       "enabled": false,
       "message": ""
@@ -22,9 +22,14 @@
         "uuid": "398e13be-88ad-4020-a809-9868d8d9a771",
         "name": "_mickey_mouse",
         "role": "owner"
+      },
+      {
+        "uuid": "0ee2e126-dde3-4cc6-9694-66fcab085472",
+        "name": "Veqxyz",
+        "role": "staff"
       }
     ]
   },
-  "signature": "gRNXE7ByjFzVuQJe9HsK4IychMMuggcni2z+NADtr160OuVJ6oM2Z/b/84pFZeiKNwgDQnRLUaGtppSGT814Dw==",
+  "signature": "g+hELkukVqJ62ZmFjN9LKyk4TS1H1mIXs9ahCUsT8tDM3TCIoVfXMpV6Sk1EYO2jpWLsQTNjmZBw0PM1XpE6DA==",
   "keyId": "b1b8092a4983314a"
 }
