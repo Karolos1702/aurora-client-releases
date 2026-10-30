@@ -1,8 +1,8 @@
 {
   "payload": {
     "format": 1,
-    "serial": 3,
-    "issuedAt": 1793387210884,
+    "serial": 4,
+    "issuedAt": 1793387224015,
     "maintenance": {
       "enabled": false,
       "message": ""
@@ -17,8 +17,14 @@
     },
     "disabledModules": [],
     "bans": [],
-    "roles": []
+    "roles": [
+      {
+        "uuid": "398e13be-88ad-4020-a809-9868d8d9a771",
+        "name": "_mickey_mouse",
+        "role": "owner"
+      }
+    ]
   },
-  "signature": "QR3T7nPrIPsd6/BAcLdwLYfC6iF5nLnbMiCSyv8CWpM8sihHFoWyAsbjRmmhTli4iMDJ9qSu505olZI38DxKBw==",
+  "signature": "gRNXE7ByjFzVuQJe9HsK4IychMMuggcni2z+NADtr160OuVJ6oM2Z/b/84pFZeiKNwgDQnRLUaGtppSGT814Dw==",
   "keyId": "b1b8092a4983314a"
 }
