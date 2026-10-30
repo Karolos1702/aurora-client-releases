@@ -1,10 +1,10 @@
 {
   "payload": {
     "format": 1,
-    "serial": 5,
-    "issuedAt": 1793387240976,
+    "serial": 6,
+    "issuedAt": 1793388017585,
     "maintenance": {
-      "enabled": false,
+      "enabled": true,
       "message": ""
     },
     "announcements": [],
@@ -30,6 +30,6 @@
       }
     ]
   },
-  "signature": "g+hELkukVqJ62ZmFjN9LKyk4TS1H1mIXs9ahCUsT8tDM3TCIoVfXMpV6Sk1EYO2jpWLsQTNjmZBw0PM1XpE6DA==",
+  "signature": "qf6w8uGjsLMoJE8QAJiNepT/fdvqiuafF3uxprphFQlfniqJpTC2/SGQJT7dwuVxYZ9hSkS47U2ORxz9aUlECQ==",
   "keyId": "b1b8092a4983314a"
 }
