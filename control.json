@@ -1,21 +1,13 @@
 {
   "payload": {
     "format": 1,
-    "serial": 8,
-    "issuedAt": 1793389354042,
+    "serial": 9,
+    "issuedAt": 1793389398954,
     "maintenance": {
       "enabled": false,
       "message": ""
     },
-    "announcements": [
-      {
-        "id": "amvvdpr7l",
-        "title": "torta",
-        "body": "janek to torta",
-        "level": "info",
-        "dismissible": false
-      }
-    ],
+    "announcements": [],
     "features": {
       "play": true,
       "modInstalls": true,
@@ -38,6 +30,6 @@
       }
     ]
   },
-  "signature": "RmFiWaB57Re70QL+pW5RqRd6smueETSO7upN9Nyu5GHdZEaXwOLoFVyQWXr5C/ZkrPSHSlzMT1g/5k1+RMMnCw==",
+  "signature": "rd8T9pUG5guNUFS6Zv8ExgBLb7JTvrPIpzgfe2/ODnW9WrI3ozdhZCp37BUyVVtsLsa9Vo1lX0JnAvxIyud6AA==",
   "keyId": "b1b8092a4983314a"
 }
