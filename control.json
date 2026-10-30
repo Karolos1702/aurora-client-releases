@@ -1,10 +1,10 @@
 {
   "payload": {
     "format": 1,
-    "serial": 1,
-    "issuedAt": 1793305565868,
+    "serial": 2,
+    "issuedAt": 1793384602859,
     "maintenance": {
-      "enabled": false,
+      "enabled": true,
       "message": ""
     },
     "announcements": [],
@@ -19,6 +19,6 @@
     "bans": [],
     "roles": []
   },
-  "signature": "9Q5Holou1e7VfU19uaZu39HZIQ9ya9czBPOaICKCXeHt3ITvzdsaOEZs5P6lQc2N2gaYJEqDAezP0hB33MbBBQ==",
+  "signature": "5g9bS94BlSSMF9HQeSzEo83sNH3lLCQkgzOoZI4b0tGDNqaRZz5d/EiLnwse95UWaccRwDyNABTJjqGmHEQiCA==",
   "keyId": "b1b8092a4983314a"
 }
